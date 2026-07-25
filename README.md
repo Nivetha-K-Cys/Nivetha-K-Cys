@@ -1,96 +1,121 @@
-Create a world-class GitHub Profile README for me.
+Create a premium GitHub Profile README for me.
 
-My Details:
+IMPORTANT:
+Everything must be fully functional. Do not use broken images or outdated badges. Use only actively maintained GitHub README services and ensure every badge, icon, graph, and animation works.
+
+My Details
 
 Name: Nivetha K
 
-Role: Cyber Security Student | Ethical Hacker | Bug Bounty Hunter | Java Developer
+Role: Cyber Security Student | Aspiring Ethical Hacker | Bug Bounty Learner
 
 College: PSNA College of Engineering and Technology
 
 Degree: B.E Computer Science and Engineering (Cyber Security)
 
-Graduation: 2027
+Graduation Year: 2027
 
-Location: Dindigul, Tamil Nadu, India
+Location: Tamil Nadu, India
 
-About Me:
-
-I am passionate about Cyber Security, Web Application Penetration Testing, Bug Bounty Hunting, Ethical Hacking, CTF Challenges, and Secure Software Development. I continuously learn new technologies and build practical projects.
-
-Skills:
-
-• Java
-• Python
-• HTML
-• CSS
-• JavaScript
-• Git
-• GitHub
-• Kali Linux
-• Burp Suite
-• Wireshark
-• Nmap
-• OWASP Top 10
-• Web Application Security
-• API Security
-• Bug Bounty
-
-Projects:
-
-• AirGuard – Smart Air Sterilization System
-• CareerPath – LifeMap
-• Green and Clean Environment (EDII Hackathon)
-
-Certifications:
-
-• Palo Alto Cyber Security Fundamentals
-• Cisco Introduction to Cyber Security
-• Cisco Cyber Security Essentials
-• Guvi Ethical Hacking
-• Forage Cyber Security Analytics
-• CEH (Preparation)
-
-Links:
+GitHub Username: Nivetha-K-Cys
 
 LinkedIn:
 https://linkedin.com/in/nivetha-k-35bb65296
 
-GitHub:
-https://github.com/Nivetha-K-Cys
-
 LeetCode:
 https://leetcode.com/u/nivetha_ka/
 
-Requirements:
+Email:
+nivenive165@gmail.com
 
-Create one of the most beautiful GitHub Profile READMEs possible.
+Skills
+
+Java
+
+Python
+
+HTML
+
+CSS
+
+JavaScript
+
+Git
+
+GitHub
+
+Kali Linux
+
+Burp Suite
+
+Wireshark
+
+Nmap
+
+OWASP Top 10
+
+API Testing
+
+Bug Bounty
+
+Projects
+
+AirGuard – Smart Air Sterilization
+
+CareerPath – LifeMap
+
+Green and Clean Environment
+
+Requirements
+
+Use a modern dark cyber security theme.
 
 Include:
 
-• Animated typing banner
-• Professional cyber security banner
-• Profile views counter
-• Social icons
-• Programming language icons
-• Cyber Security tools icons
-• Tech stack with shields.io badges
-• GitHub Stats
-• GitHub Streak
-• Top Languages
-• GitHub Trophies
-• Activity Graph
-• Visitor Badge
-• Snake Contribution Animation
-• Support section
-• Random Cyber Security Quote
-• Clean dark theme
-• Hacker style aesthetic
-• Responsive layout
-• Attractive emojis
-• Professional typography
-• Markdown only
-• No placeholders
-• Production-ready README
-• Follow GitHub best practices
-• Make it look like a senior Cyber Security Engineer's GitHub profile.
+✅ Animated typing header
+
+✅ Professional profile banner
+
+✅ Visitor counter
+
+✅ Social media icons
+
+✅ Tech stack icons
+
+✅ Shields.io badges
+
+✅ About Me section
+
+✅ Skills section
+
+✅ Featured Projects cards
+
+✅ GitHub Stats
+
+✅ GitHub Streak Stats
+
+✅ Top Languages
+
+✅ GitHub Trophy section
+
+✅ Contribution Graph
+
+✅ Snake Contribution Animation
+
+✅ Certifications section
+
+✅ Current Learning section
+
+✅ Fun Fact section
+
+✅ Contact section
+
+Use centered layout where appropriate.
+
+Use blue and green cyber security colors.
+
+No placeholder links.
+
+Generate only clean GitHub Markdown.
+
+The README should look like it belongs to a professional Cyber Security Engineer and be visually impressive for recruiters.
