@@ -1,4 +1,4 @@
-# Hi 👋 I'm Nivetha K
+[# Hi 👋 I'm Nivetha K
 
 🎓 B.E. Computer Science and Engineering (Cyber Security)
 
@@ -57,3 +57,4 @@
 💻 LeetCode: https://leetcode.com/u/nivetha_ka/
 
 ⭐ Thanks for visiting my profile!
+](https://github.com/Nivetha-K-Cys)
