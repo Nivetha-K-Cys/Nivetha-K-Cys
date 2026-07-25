@@ -1,60 +1,96 @@
-[# Hi 👋 I'm Nivetha K
+Create a world-class GitHub Profile README for me.
 
-🎓 B.E. Computer Science and Engineering (Cyber Security)
+My Details:
 
-🏫 PSNA College of Engineering and Technology
+Name: Nivetha K
 
-📍 Dindigul, Tamil Nadu, India
+Role: Cyber Security Student | Ethical Hacker | Bug Bounty Hunter | Java Developer
 
----
+College: PSNA College of Engineering and Technology
 
-## 👩‍💻 About Me
+Degree: B.E Computer Science and Engineering (Cyber Security)
 
-- 🔐 Aspiring Cyber Security Professional
-- 🛡️ Learning Ethical Hacking & Bug Bounty
-- 💻 Interested in Web Application Security
-- 🌱 Currently improving Java, Python and Penetration Testing skills
+Graduation: 2027
 
----
+Location: Dindigul, Tamil Nadu, India
 
-## 🛠️ Skills
+About Me:
 
-- Java
-- Python (Basic)
-- Kali Linux
-- Burp Suite
-- Wireshark
-- Nmap
-- OWASP Top 10
-- Git & GitHub
+I am passionate about Cyber Security, Web Application Penetration Testing, Bug Bounty Hunting, Ethical Hacking, CTF Challenges, and Secure Software Development. I continuously learn new technologies and build practical projects.
 
----
+Skills:
 
-## 🚀 Projects
+• Java
+• Python
+• HTML
+• CSS
+• JavaScript
+• Git
+• GitHub
+• Kali Linux
+• Burp Suite
+• Wireshark
+• Nmap
+• OWASP Top 10
+• Web Application Security
+• API Security
+• Bug Bounty
 
-- 🛡️ AirGuard – Smart Air Sterilization
-- 🎓 CareerPath – LifeMap
-- 🌱 Green and Clean Environment (EDII Hackathon)
+Projects:
 
----
+• AirGuard – Smart Air Sterilization System
+• CareerPath – LifeMap
+• Green and Clean Environment (EDII Hackathon)
 
-## 🏆 Certifications
+Certifications:
 
-- Palo Alto – Cyber Security Fundamentals
-- Cisco – Introduction to Cyber Security
-- Cisco – Cyber Security Essentials
-- Guvi – Ethical Hacking for Beginners
-- Forage – Cyber Security Analytics
+• Palo Alto Cyber Security Fundamentals
+• Cisco Introduction to Cyber Security
+• Cisco Cyber Security Essentials
+• Guvi Ethical Hacking
+• Forage Cyber Security Analytics
+• CEH (Preparation)
 
----
+Links:
 
-## 📫 Connect with Me
+LinkedIn:
+https://linkedin.com/in/nivetha-k-35bb65296
 
-📧 Email: nivenive165@gmail.com
+GitHub:
+https://github.com/Nivetha-K-Cys
 
-💼 LinkedIn: https://linkedin.com/in/nivetha-k-35bb65296
+LeetCode:
+https://leetcode.com/u/nivetha_ka/
 
-💻 LeetCode: https://leetcode.com/u/nivetha_ka/
+Requirements:
 
-⭐ Thanks for visiting my profile!
-](https://github.com/Nivetha-K-Cys)
+Create one of the most beautiful GitHub Profile READMEs possible.
+
+Include:
+
+• Animated typing banner
+• Professional cyber security banner
+• Profile views counter
+• Social icons
+• Programming language icons
+• Cyber Security tools icons
+• Tech stack with shields.io badges
+• GitHub Stats
+• GitHub Streak
+• Top Languages
+• GitHub Trophies
+• Activity Graph
+• Visitor Badge
+• Snake Contribution Animation
+• Support section
+• Random Cyber Security Quote
+• Clean dark theme
+• Hacker style aesthetic
+• Responsive layout
+• Attractive emojis
+• Professional typography
+• Markdown only
+• No placeholders
+• Production-ready README
+• Follow GitHub best practices
+• Make it look like a senior Cyber Security Engineer's GitHub profile.
